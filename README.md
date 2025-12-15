@@ -42,8 +42,8 @@
 
 <br><br>
 
-[![signal](https://img.shields.io/github/followers/CtorW?label=signal&style=social)](https://github.com/CtorW)
-[![noise](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![signal](https://img.shields.io/github/followers/BellionVP?label=signal&style=social)](https://github.com/BellionVP)
+[![noise](https://img.shields.io/github/stars/BellionVP?style=social)](https://github.com/BellionVP)
 
 </div>
 
@@ -114,11 +114,11 @@ editor · modal · unforgiving
 
 | system | persistence |
 | --- | --- |
-| ![stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=BellionVP&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=BellionVP&theme=onedark&hide_border=true) |
 
 | language residue |
 | --- |
-| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellionVP&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 </div>
 
